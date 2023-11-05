@@ -1,0 +1,28 @@
+.auth {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.auth form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+.auth form input {
+  padding: 5px;
+  margin: 10px 0;
+  line-height: 30px;
+  border-radius: 10px;
+  border-color: blue;
+}
+.auth form button {
+  background-color: rgb(37, 37, 128);
+  color: #ffffff;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.auth form button:hover {
+  background-color: rgb(67, 67, 138);
+}/*# sourceMappingURL=login.css.map */

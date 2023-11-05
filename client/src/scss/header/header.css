@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  margin-bottom: 40px;
+  background-color: rgb(40, 20, 118);
+  color: white;
+}
+.header .left-header {
+  display: flex;
+}
+.header .left-header h5 {
+  cursor: pointer;
+  margin: 15px;
+}
+.header .right-header {
+  cursor: pointer;
+}/*# sourceMappingURL=header.css.map */

@@ -1,0 +1,12 @@
+body {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    height: 100vh;
+    font-size: 1.2rem;
+    font-family:Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.rating i {
+    color: rgb(255, 221, 0);
+}

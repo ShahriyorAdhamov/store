@@ -1,0 +1,21 @@
+.card {
+  cursor: pointer;
+  width: 400px;
+  height: 550px;
+  margin: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.card:hover {
+  transform: translate(0, -4%);
+}
+.card-img .img {
+  max-height: 250px;
+  max-width: 350px;
+}
+.card-body__button {
+  color: red;
+  border: 1px solid red;
+  background-color: white;
+  border-radius: 10px;
+}/*# sourceMappingURL=card.css.map */

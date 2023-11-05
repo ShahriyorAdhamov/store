@@ -1,0 +1,6 @@
+.cards-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 70px;
+  gap: 15px;
+}/*# sourceMappingURL=home.css.map */
